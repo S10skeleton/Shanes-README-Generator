@@ -1,7 +1,7 @@
-# Shanes README Generator 
+# README Generator 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-This is a simple application to create unique README.md files easily and in a standard format. If a subject does not apply to you simply type N/A and it will remove that section of the README. 
+simple app to make a README.md file
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -11,9 +11,9 @@ This is a simple application to create unique README.md files easily and in a st
 
 * [Questions](#questions)
 ## Installation
-npm and inquirer install
+npm and inquirer
 ## How to Use This Application
-Used to simplify the creation of README.md files for projects and applications.
+to simplify creation of README files
 ## License
 This project is licensed under the MIT license.
 ## Testing
